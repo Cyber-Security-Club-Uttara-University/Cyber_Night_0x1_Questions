@@ -1,0 +1,20 @@
+## 🔄 Lost in Rotation  
+**Points:** 150  
+
+---
+
+### 📜 Challenge Description
+
+The text of an old book has been found, but it is utterly jumbled! According to scholars, it was encoded using a rotational cipher that is far more complex than ROT13 or even ROT47.
+
+They believe the rotation encompasses a far wider range of characters and isn't just restricted to regular ASCII. Can you figure out what the text's hidden message is?
+
+### 🔐 Cipher Text
+籌籜籌籞籞粄籝籱籲籼籨籲籼籨类籸籽籁簹簹簹籨籬籲籹籱籮类
+
+**Flag Format:**  CSCUU{some_text_here}
+
+<details>
+  <summary>💡 Hint</summary>
+  Conventional ciphers may not be sufficient. Have a larger perspective.
+</details>

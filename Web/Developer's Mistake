@@ -1,0 +1,20 @@
+## 🧑‍💻 Developer's Mistake — 100 Points  
+**Author**: Pritom Pranto
+
+---
+
+### 🎉 Welcome
+
+Welcome to the [Cyber Security Club at Uttara University!](https://cybersecurity.club.uttara.ac.bd) 
+A new feature was supposed to greet users with a friendly message when they visited the site… but it mysteriously vanished from the resource locator.
+
+One of our developers, [Pritom](https://www.linkedin.com/in/pran0x/), may have made a mistake while implementing it.Your mission is to inspect the site, uncover why the greeting message isn't appearing for new visitors, and report it as a bug.
+
+https://cybersecurity.club.uttara.ac.bd
+
+**Flag Format** : CSC{XXXX_XXXX_XXX}
+
+<details>
+  <summary>💡View Hint: Need Hint ?</summary>
+**Do you Know about URL ?**
+</details>

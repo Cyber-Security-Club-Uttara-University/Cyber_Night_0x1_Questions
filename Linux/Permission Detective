@@ -1,0 +1,13 @@
+## 🕵️ Permission Detective — 75 Points  
+**Author**: Pritom Pranto
+
+---
+
+### ❓ Question
+
+A file named `flag.tar` exists in `/home/user/` but you can't read it.  
+Your task: Determine the octal permission needed to make the file readable by everyone.
+
+**Flag Format** : CSC{XXXX_XXX_XXXX}
+
+[📥flag.tar](flag.tar)
